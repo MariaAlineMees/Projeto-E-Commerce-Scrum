@@ -1,4 +1,5 @@
-# 🛍️ Loja Virtual – Repositório criado como atividade avaliativa para o curso **Devs2Blu – Agosto 2025**. Estruturado com base na metodologia Scrum e composto por 25 Sprints que documentam todas as etapas do desenvolvimento.
+# 🛍️ Loja Virtual Nos Vemos pelo Mundo ✈️ – Repositório criado como atividade avaliativa para o curso **+Devs2Blu**. 
+🚀Estruturado com base na metodologia Scrum e composto por 25 Sprints que documentam todas as etapas do desenvolvimento.
 ---
 
 ## 📦 Descrição do Repositório
@@ -19,9 +20,23 @@ A estrutura segue o modelo **Kanban**, com foco em entregas contínuas e colabor
 
 ---
 
+
+## 🔗 Links do Projeto
+
+Este projeto está dividido em dois repositórios:
+
+- 🌐 Front-end: [Projeto-E-Commerce-Front](https://github.com/MariaAlineMees/Projeto-E-Commerce-Front)  
+- 🛠️ Back-end: [Projeto-E-Commerce-Back](https://github.com/MariaAlineMees/Projeto-E-Commerce-Back)
+
+Ambos os repositórios contêm o código-fonte completo da loja virtual desenvolvida durante o curso +Devs2Blu.
+
+---
+
 ## 👥 Equipe de Desenvolvimento
 
-- 👩‍💻 Aline Mees – Front-end e integração com API  
+*Esta equipe é fictícia e foi criada apenas para fins ilustrativos, simulando uma estrutura real dentro de uma empresa.*
+
+- 👩🏻‍💻 Aline Mees – Front-end e integração com API  
 - 👨‍💻 Bruno Costa – Back-end e banco de dados  
 - 🎨 Camila Rocha – UX/UI e documentação  
 
@@ -384,7 +399,7 @@ A estrutura segue o modelo **Kanban**, com foco em entregas contínuas e colabor
 
 ## 🧑‍🎓 Autoria do Projeto
 
-Este projeto foi desenvolvido como atividade avaliativa para o curso **Devs2Blu – Agosto 2025**.
+Este projeto foi desenvolvido como atividade avaliativa com o Professor Ralf Lima, para o curso **+Devs2Blu – Agosto 2025**.
 
 📌 **Autora:**  
 **Aline Mees**  
