@@ -38,7 +38,7 @@ Ambos os repositórios contêm o código-fonte completo da loja virtual desenvol
 
 - 👩🏻‍💻 Aline Mees – Front-end e integração com API  
 - 👨‍💻 Bruno Costa – Back-end e banco de dados  
-- 🎨 Camila Rocha – UX/UI e documentação  
+- 🎨 Raquel Muller – UX/UI e documentação  
 
 ---
 
@@ -98,7 +98,7 @@ Ambos os repositórios contêm o código-fonte completo da loja virtual desenvol
 ## 🏁 Sprints Detalhadas
 
 ### 🏃‍♀️ Sprint 1: Estrutura HTML da Página Inicial  
-**Responsável:** Aline  
+**Responsável:** Aline            
 **O que foi feito:** Criação da base HTML com cabeçalho, rodapé e área de produtos  
 **Desenvolvimento:** 2 dias  
 **Testes:** 1 dia  
@@ -110,7 +110,7 @@ Ambos os repositórios contêm o código-fonte completo da loja virtual desenvol
 ---
 
 ### 🏃‍♂️ Sprint 2: Estilização com CSS e Bootstrap  
-**Responsável:** Aline e Camila  
+**Responsável:** Aline e Raquel      
 **O que foi feito:** Aplicação de estilos e responsividade  
 **Desenvolvimento:** 3 dias  
 **Testes:** 1 dia  
@@ -158,7 +158,7 @@ Ambos os repositórios contêm o código-fonte completo da loja virtual desenvol
 ---
 
 ### 🏃‍♂️ Sprint 6: Página de Checkout  
-**Responsável:** Camila e Aline  
+**Responsável:** Raquel e Aline  
 **O que foi feito:** Formulário de endereço e pagamento  
 **Desenvolvimento:** 2 dias  
 **Testes:** 1 dia  
@@ -194,7 +194,7 @@ Ambos os repositórios contêm o código-fonte completo da loja virtual desenvol
 ---
 
 ### 🏃‍♀️ Sprint 9: Autenticação de Usuários  
-**Responsável:** Bruno e Camila  
+**Responsável:** Bruno e Raquel  
 **O que foi feito:** Formulário de login e simulação de autenticação  
 **Desenvolvimento:** 5 dias  
 **Testes:** 1 dia  
@@ -218,7 +218,7 @@ Ambos os repositórios contêm o código-fonte completo da loja virtual desenvol
 ---
 
 ### 🏃‍♀️ Sprint 11: Página de Categorias  
-**Responsável:** Aline e Camila  
+**Responsável:** Aline e Raquel  
 **O que foi feito:** Listagem por categoria  
 **Desenvolvimento:** 2 dias  
 **Testes:** 1 dia  
@@ -230,7 +230,7 @@ Ambos os repositórios contêm o código-fonte completo da loja virtual desenvol
 ---
 
 ### 🏃‍♂️ Sprint 12: Página de Cadastro de Usuário  
-**Responsável:** Camila e Bruno  
+**Responsável:** Raquel e Bruno  
 **O que foi feito:** Formulário de criação de conta  
 **Desenvolvimento:** 3 dias  
 **Testes:** 1 dia  
@@ -266,7 +266,7 @@ Ambos os repositórios contêm o código-fonte completo da loja virtual desenvol
 ---
 
 ### 🏃‍♀️ Sprint 15: Página de Contato  
-**Responsável:** Camila  
+**Responsável:** Raquel           
 **O que foi feito:** Formulário de mensagem com validação  
 **Desenvolvimento:** 2 dias  
 **Testes:** 1 dia  
@@ -278,7 +278,7 @@ Ambos os repositórios contêm o código-fonte completo da loja virtual desenvol
 ---
 
 ### 🏃‍♂️ Sprint 16: Página de FAQ  
-**Responsável:** Camila  
+**Responsável:** Raquel        
 **O que foi feito:** Perguntas frequentes com toggle de respostas  
 **Desenvolvimento:** 2 dias  
 **Testes:** 1 dia  
@@ -290,7 +290,7 @@ Ambos os repositórios contêm o código-fonte completo da loja virtual desenvol
 ---
 
 ### 🏃‍♀️ Sprint 17: Página de Termos e Política de Privacidade  
-**Responsável:** Camila  
+**Responsável:** Raquel         
 **O que foi feito:** Conteúdo legal e layout responsivo  
 **Desenvolvimento:** 2 dias  
 **Testes:** 1 dia  
